@@ -1,1 +1,2 @@
-Edited File 1 in master.
+Edited2 File2 2 in version1.0.
+
