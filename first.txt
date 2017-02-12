@@ -1,1 +1,1 @@
-File1 in Sample Project
+Edited File 1 in master.
